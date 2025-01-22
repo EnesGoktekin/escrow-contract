@@ -1,0 +1,13 @@
+/home/enes/abc/target/debug/deps/libruplacer-514e1fe0c126357e.rmeta: /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/lib.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/app.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/console.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/directory_patcher.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/file_patcher.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/query.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/replacer.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/settings.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/stats.rs
+
+/home/enes/abc/target/debug/deps/ruplacer-514e1fe0c126357e.d: /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/lib.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/app.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/console.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/directory_patcher.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/file_patcher.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/query.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/replacer.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/settings.rs /home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/stats.rs
+
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/lib.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/app.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/console.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/directory_patcher.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/file_patcher.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/query.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/replacer.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/settings.rs:
+/home/enes/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ruplacer-0.8.2/src/stats.rs:
